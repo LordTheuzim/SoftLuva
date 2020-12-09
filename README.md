@@ -1,2 +1,2 @@
 # SoftLuva
-Ese repositorio foi criado para o desenvolvimento de um software para coleta de dados de uma luva sensoriada. Primeiramente sera feita a comunicacao bluetooth da luva com um computador ou celular. Depois criar um banco de dados para armazenar os dados dos sensores. Depois a propria aplicacao para a luva.
+Esse repositório foi desenvolvido com a finalidade de escrever o código do dispositivo de captura de dados da mão de um usuário e o software para o mesmo. A luva conta com 10 sensores de pressão, 5 sensores de flexão e um IMU com acelerômetro e giroscópio em 3 eixos.
